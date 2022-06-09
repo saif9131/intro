@@ -1,1 +1,4 @@
 # intro
+what
+where
+why
